@@ -1,7 +1,8 @@
-# binarios
+# binários e artefatos
 *.exe
 *.o
 *.obj
 *.out
 war
 war.exe
+
